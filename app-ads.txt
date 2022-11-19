@@ -312,3 +312,4 @@ contextweb.com, 562724, RESELLER, 89ff185a4c4e857c
 improvedigital.com, 1361, RESELLER
 triplelift.com, 12552, RESELLER, 6c33edb13117fd86
 applovin.com, 74668140c3265e88f43ea0fd4bace5fc, DIRECT
+google.com, pub-1307808515972458, DIRECT, f08c47fec0942fa0
