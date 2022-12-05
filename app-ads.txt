@@ -965,3 +965,4 @@ xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 xandr.com, 13238, RESELLER, f5ab79cb980f11d1
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
 yeahmobi.com, 15984, RESELLER
+facebook.com, 882648962727940, RESELLER, c3e20eee3f780d68
